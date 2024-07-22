@@ -1,8 +1,8 @@
-import { Router } from 'express';
+import { Router } from 'express'
 
-const router = Router();
+const router = Router()
 
 // Puedes agregar tus rutas aquí
 // router.use('/somePath', someRoute);
 
-export default router;
+export default router

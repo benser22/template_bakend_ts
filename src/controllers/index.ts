@@ -1,1 +1,1 @@
-// export * from './someController';
+export * from './exampleController';

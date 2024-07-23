@@ -1,1 +1,1 @@
-// export * from './someModel';
+export * from './exampleModel';

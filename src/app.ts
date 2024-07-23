@@ -5,11 +5,10 @@
 
 // const server = new Server()
 // server.listen()
+import dotenv from 'dotenv';
+import { Server } from './index';
 
-import dotenv from 'dotenv'
-import { Server } from './index'
+dotenv.config();
 
-dotenv.config()
-
-const server = new Server()
-server.listen()
+const server = new Server();
+server.listen();
